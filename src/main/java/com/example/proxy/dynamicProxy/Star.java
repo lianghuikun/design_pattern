@@ -1,4 +1,4 @@
-package com.example.proxy.staticProxy;
+package com.example.proxy.dynamicProxy;
 
 /**
  * 歌星接口

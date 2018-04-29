@@ -1,4 +1,4 @@
-package com.example.proxy.staticProxy;
+package com.example.proxy.dynamicProxy;
 
 // 真实角色
 public class RealStar implements Star {

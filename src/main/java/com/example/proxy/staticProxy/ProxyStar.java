@@ -1,5 +1,7 @@
 package com.example.proxy.staticProxy;
 
+import com.example.proxy.dynamicProxy.Star;
+
 // 代理类
 public class ProxyStar implements Star {
 

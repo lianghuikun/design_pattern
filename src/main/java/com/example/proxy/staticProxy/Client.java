@@ -1,5 +1,8 @@
 package com.example.proxy.staticProxy;
 
+import com.example.proxy.dynamicProxy.RealStar;
+import com.example.proxy.dynamicProxy.Star;
+
 /**
  * @Author: lianghuikun
  * @Description: TODO
